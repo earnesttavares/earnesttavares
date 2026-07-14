@@ -1,6 +1,6 @@
 ***Hello, my name is Earnest.*** 
 
-I recently earned my Security+ certification and am building a portfolio that expands on the projects I completed during my Correlation One's Information Security Analyst program. I'm now creating real world, SOC-aligned labs that demonstrate practical defensive capabilities as I work toward tranistioning into a SOC analyst role.
+I recently earned my Security+ certification and am building a portfolio that expands on the projects I completed during my Correlation One's Information Security Analyst program. I'm now creating real world, SOC-aligned labs that demonstrate practical defensive capabilities as I work toward transitioning into a SOC analyst role.
 
 <br>
 
