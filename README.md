@@ -1,6 +1,6 @@
 ***Hello ★彡***
 
-I’m just getting started in cybersecurity and I’m excited for the road ahead. I love learning, solving unique challenges, and expanding my certifications as I grow. I’m driven by the goal of helping people stay safe online and making security feel accessible.
+I’m excited to begin my cybersecurity journey. I enjoy learning, tackling unique challenges, and expanding my certifications as I grow. I’m currently studying for the CySA+ exam and building hands‑on skills through TryHackMe. I’m working toward becoming a SOC analyst or data center technician. My goal is to help people and their data stay safe online while making security feel accessible.
 
 <hr style="border: 0.5px solid #ccc;"> 
 
@@ -18,13 +18,15 @@ I’m just getting started in cybersecurity and I’m excited for the road ahead
 </div> 
 <br>
 
-➤ <mark> Information Security Analyst Training Program </mark> - Correlation One | Completed July 2026
+<div align="center">
+<mark> Information Security Analyst Training Program </mark> - Correlation One | Completed July 2026
 <br>
 <br>
-➤ <mark> Adobe Analytics Business Practitioner (AD0-E212) </mark> - Adobe | Completed June 2025 
+<mark> Adobe Analytics Business Practitioner (AD0-E212) </mark> - Adobe | Completed June 2025 
 <br>
 <br>
-➤ <mark> Google Analytics </mark> - Skillshop | Completed December 2024
+<mark> Google Analytics </mark> - Skillshop | Completed December 2024
+</div> 
 
 <hr style="border: 0.5px solid #ccc;"> 
 
