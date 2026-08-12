@@ -1,6 +1,6 @@
 ***Hello ★彡***
 
-I’m excited to begin my cybersecurity journey. I enjoy learning, tackling unique challenges, and expanding my certifications as I grow. I’m currently studying for the CySA+ exam and building hands‑on skills through TryHackMe. I’m working toward becoming a SOC analyst or data center technician. My goal is to help people and their data stay safe online while making security feel accessible.
+I’m excited to begin my cybersecurity journey. I enjoy learning, tackling unique challenges, and expanding my certifications as I grow. I’m currently studying for the CySA+ exam, building hands‑on skills through TryHackMe, and developing a professional cybersecurity portfolio. I am looking for career opportunities as a SOC analyst or data center technician. My goal is to help people and their data stay safe online while making security feel accessible.
 
 <hr style="border: 0.5px solid #ccc;"> 
 
