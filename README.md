@@ -4,36 +4,45 @@ I’m excited to start documenting my cybersecurity journey. I’m currently stu
 
 <hr style="border: 0.5px solid #ccc;"> 
 
-<div align="center">
-<strong>EDUCATION</strong> 
-</div> 
+<h3 style="color:#FFBF00;">💾 EDUCATION</h3> 
+
 <br>
 
-<mark> 💾 Information Security Analyst Training Program </mark> <br> 
+<div align="center"> 
+
+<mark> Information Security Analyst Training Program </mark> <br> 
 Correlation One // Jul. 2026 <br>
 Honors Distinction
 
+</div>
+
 <hr style="border: 0.5px solid #ccc;"> 
 
-<div align="center">
-<strong>CERTIFICATIONS</strong> 
-</div> 
+<h3 style="color:#FFBF00;">💾 CERTIFICATIONS</h3> 
+
 <br>
 
-<mark> 💾 THM Virtual Workshop: Attacking & Defending AWS </mark> <br> 
+<div align="center">
+
+<mark> THM Virtual Workshop: Attacking & Defending AWS </mark> <br> 
 TryHackMe // Sep. 2026
+
 <br>
-<br>
-<mark> 💾 CompTIA Security+ (SY0-701) </mark> <br> 
+
+<mark> CompTIA Security+ (SY0-701) </mark> <br> 
 CompTIA // Jun. 2026
+
 <br>
-<br>
-<mark> 💾 Adobe Analytics Business Practitioner (AD0-E212) </mark> <br>
+
+<mark> Adobe Analytics Business Practitioner (AD0-E212) </mark> <br>
 Adobe // Jun. 2025 
+
 <br>
-<br>
-<mark> 💾 Google Analytics (GA4) </mark> <br> 
+
+<mark> Google Analytics (GA4) </mark> <br> 
 Google Skillshop // Dec. 2024 
+
+</div>
 
 <hr style="border: 0.5px solid #ccc;"> 
 
