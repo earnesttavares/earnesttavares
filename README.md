@@ -1,50 +1,10 @@
-***⋆｡ﾟ🪐ﾟ｡Hi!.⋆✧***
+Hi there (^◡^)ﾉ 
 
-I’m excited to start documenting my cybersecurity journey. I’m currently studying for the CySA+ exam, building hands‑on skills through TryHackMe, and developing a professional cybersecurity portfolio + blog. I’m seeking career opportunities as a SOC analyst or data center technician. My goal is to help people and their data stay safe online while making security feel accessible.
+Welcome to my cybersecurity portfolio! I'm a **cybersecurity professional** focused on defensive security, threat detection, and continuous learning through hands-on practice.  
 
-<hr style="border: 0.5px solid #ccc;"> 
+Here you'll find security labs, technical write-ups, and projects documenting my journey in cybersecurity. My current areas of focus include home lab telemetry analysis, attack detection, incident response concepts, and CompTIA CySA+ preparation. In the near future, I plan to share experimental security-focused builds and research projects that explore new tools, techniques, and technologies. 
 
-<h3 style="color:#FFBF00;">💾 EDUCATION</h3> 
-
-<br>
-
-<div align="center"> 
-
-<mark> Information Security Analyst Training Program </mark> <br> 
-Correlation One // Jul. 2026 <br>
-Honors Distinction
-
-</div>
-
-<hr style="border: 0.5px solid #ccc;"> 
-
-<h3 style="color:#FFBF00;">💾 CERTIFICATIONS</h3> 
-
-<br>
-
-<div align="center">
-
-<mark> THM Virtual Workshop: Attacking & Defending AWS </mark> <br> 
-TryHackMe // Sep. 2026
-
-<br>
-
-<mark> CompTIA Security+ (SY0-701) </mark> <br> 
-CompTIA // Jun. 2026
-
-<br>
-
-<mark> Adobe Analytics Business Practitioner (AD0-E212) </mark> <br>
-Adobe // Jun. 2025 
-
-<br>
-
-<mark> Google Analytics (GA4) </mark> <br> 
-Google Skillshop // Dec. 2024 
-
-</div>
-
-<hr style="border: 0.5px solid #ccc;"> 
+I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, Network Analyst, or Data Center Technician** where I can leverage analytical thinking, technical troubleshooting, and security best practices to support resilient and secure operations.  
 
 <div align="center">
   
@@ -54,16 +14,53 @@ Google Skillshop // Dec. 2024
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 
-</div> 
+</div>
 
-<hr style="border: 0.5px solid #ccc;">
+<hr style="border: 0.5px solid #ccc;"> 
 
-[![Security+ Badge](https://images.credly.com/size/220x220/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/2eaa7ed3-94bb-4494-836b-538fc1cc8d9d/public_url)
+<h3 style="color:#FFBF00;">Education 📚</h3> 
+
+<br>
+
+<div align="center"> 
+
+🌐 Information Security Analyst Training Program <br> 
+Correlation One // Jul. 2026 <br>
+Honors Distinction
+
+</div>
+
+<hr style="border: 0.5px solid #ccc;"> 
+
+<h3 style="color:#FFBF00;">Certifications 📄</h3> 
+
+<br>
+
+<div align="center">
+
+🌐 THM Virtual Workshop: Attacking & Defending AWS <br> 
+TryHackMe // Sep. 2026
+
+<br>
+
+🌐 CompTIA Security+ (SY0-701) <br> 
+CompTIA // Jun. 2026
+
+<br>
+
+🌐 Adobe Analytics Business Practitioner (AD0-E212) <br>
+Adobe // Jun. 2025 
+
+<br>
+
+🌐 Google Analytics (GA4) <br> 
+Skillshop // Dec. 2024 
+
+</div>
 
 <hr style="border: 0.5px solid #ccc;"> 
 
 <div align="center">
-█▓▒░ thanks for visiting ░▒▓█
-<br>
-╰(*°▽°*)╯
+  ───☾───☄───░▒▓█ thanks for visiting ▓▒░───✧───▲▲─── <br>
+₍^. .^₎⟆
 </div> 
