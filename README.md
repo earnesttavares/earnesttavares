@@ -1,8 +1,8 @@
 Hi there (^◡^)ﾉ 
 
-Welcome to my cybersecurity portfolio! I'm a **cybersecurity professional** focused on defensive security, threat detection, and continuous learning through hands-on practice.  
+Welcome to my cybersecurity portfolio! I'm an aspiring **cybersecurity professional** focused on defensive security, threat detection, and identity management.   
 
-Here you'll find security labs, technical write-ups, and projects documenting my journey in cybersecurity. My current areas of focus include home lab telemetry analysis, attack detection, incident response concepts, and CompTIA CySA+ preparation. In the near future, I plan to share experimental security-focused builds and research projects that explore new tools, techniques, and technologies. 
+Here you'll find security labs, technical write-ups, and projects documenting my journey in cybersecurity. I'm currently building a foundational home lab environment and preparing for the CompTIA CySA+ certification. In the future, I plan to share experimental security builds and research projects that explore next-generation defensive utilities and methodologies. 
 
 I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, Network Analyst, or Data Center Technician** where I can leverage analytical thinking, technical troubleshooting, and security best practices to support resilient and secure operations.  
 
