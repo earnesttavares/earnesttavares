@@ -35,7 +35,7 @@ width="52%"
 src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=JetBrains%20Mono&preferLogin=true"
 alt="GitHub Stats"/></p>
 
-[🖿 CURRENT AREAS OF FOCUS] <br>
+[📋︎ CURRENT AREAS OF FOCUS] <br>
 ✧ Defensive Security <br>
 ✧ Cloud Security <br>
 ✧ Threat Detection & Analysis <br>
