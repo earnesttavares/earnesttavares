@@ -58,10 +58,6 @@ alt="GitHub Stats"
 
 <br>
 
-<p align="center">
-  <img src="assets/education_certs.svg" alt="Education & Certifications" width="100%">
-</p>
-
 <h3 style="color:#FFBF00;">Education 📚</h3> 
 
 <br>
