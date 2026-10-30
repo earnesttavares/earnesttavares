@@ -35,7 +35,7 @@ width="52%"
 src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=JetBrains%20Mono&preferLogin=true"
 alt="GitHub Stats"/></p>
 
-[📋︎ CURRENT AREAS OF FOCUS] <br>
+📋︎ CURRENT AREAS OF FOCUS <br>
 ✧ Defensive Security <br>
 ✧ Cloud Security <br>
 ✧ Threat Detection & Analysis <br>
@@ -49,16 +49,16 @@ alt="GitHub Stats"/></p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
 </p>
 
-<p align="right">₍^. .^₎⟆</p>
+<div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### ✍︎ EDUCATION
 
-🌐 Information Security Analyst Training Program
-Correlation One // Jul. 2026 
+🌐 Information Security Analyst Training Program <br>
+Correlation One // Jul. 2026 <br>
 Honors Distinction
 
 </td>
@@ -67,13 +67,13 @@ Honors Distinction
 
 ### 🗎 CERTIFICATIONS
 
-🌐 THM Virtual Workshop: Attacking & Defending AWS 
+🌐 THM Virtual Workshop: Attack & Defend AWS <br>
 TryHackMe // Sep. 2026
 
 🌐 CompTIA Security+ (SY0-701) <br> 
 CompTIA // Jun. 2026
 
-🌐 Adobe Analytics Business Practitioner (AD0-E212) <br>
+🌐 Adobe Analytics Practitioner (AD0-E212) <br>
 Adobe // Jun. 2025 
 
 🌐 Google Analytics (GA4) <br> 
@@ -83,7 +83,11 @@ Skillshop // Dec. 2024
 </tr>
 </table>
 
+</div>
+
 <br>
+
+<p align="right">🖱︎ ₍^. .^₎⟆</p>
 
 <p align="center">
   <img
