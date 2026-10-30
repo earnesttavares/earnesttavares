@@ -28,19 +28,14 @@ I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Spec
 
 </div>
 
-<br>
-
 <p align="center">
 <img
 align="left"
 width="52%"
 src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=JetBrains%20Mono&preferLogin=true"
-alt="GitHub Stats"
-/>
+alt="GitHub Stats"/></p>
 
-<bold>[CURRENT AREAS OF FOCUS 🖿]</bold> <br>
-  
-&emsp;&emsp;₍^. .^₎⟆ <br>
+[CURRENT AREAS OF FOCUS 🖿] <br>
 ❖ Defensive Security <br>
 ❖ Cloud Security <br>
 ❖ Threat Detection & Analysis <br>
@@ -48,56 +43,52 @@ alt="GitHub Stats"
 ❖ Home Lab Development <br>
 ❖ CompTIA CySA+ Preparation <br>
  
-</p>
- 
 <br clear="both">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
 </p>
 
-<br>
+<p align="right">₍^. .^₎⟆</p>
 
-<h3 style="color:#FFBF00;">Education 📚</h3> 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### ✍︎ EDUCATION
 
-<div align="center"> 
-
-🌐 Information Security Analyst Training Program <br> 
-Correlation One // Jul. 2026 <br>
+🌐 Information Security Analyst Training Program
+Correlation One // Jul. 2026 
 Honors Distinction
 
-</div>
+</td>
 
-<h3 style="color:#FFBF00;">Certifications 📄</h3> 
+<td width="50%" valign="top">
 
-<br>
+### 🗎 CERTIFICATIONS
 
-<div align="center">
-
-🌐 THM Virtual Workshop: Attacking & Defending AWS <br> 
+🌐 THM Virtual Workshop: Attacking & Defending AWS 
 TryHackMe // Sep. 2026
-
-<br>
 
 🌐 CompTIA Security+ (SY0-701) <br> 
 CompTIA // Jun. 2026
 
-<br>
-
 🌐 Adobe Analytics Business Practitioner (AD0-E212) <br>
 Adobe // Jun. 2025 
-
-<br>
 
 🌐 Google Analytics (GA4) <br> 
 Skillshop // Dec. 2024 
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 <p align="center">
-───☾───☄───░▒▓█ thanks for visiting ▓▒░───✧───▲▲───
+  <img
+    src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
+    alt="divider"
+    width="100%"
+  />
 </p>
