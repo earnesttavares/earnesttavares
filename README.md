@@ -1,6 +1,10 @@
-Hi there (^◡^)ﾉ 
+<p align="center">
+  <img src="images/Hello_World.png" alt="Hello World Banner" width="100%">
+</p>
 
-Welcome to my cybersecurity portfolio! I'm an aspiring **cybersecurity professional** focused on defensive security, threat detection, and identity management.   
+<hr style="border: 0.5px solid #ccc;"> 
+
+Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm an aspiring **cybersecurity professional** focused on defensive security, threat detection, and identity management.   
 
 Here you'll find security labs, technical write-ups, and projects that showcase my hands-on learning and technical development. I'm currently building a foundational home lab environment and preparing for the CompTIA CySA+ certification. As I continue to grow, I plan to share experimental security builds, research projects, and practical explorations of emerging defensive technologies. 
 
@@ -8,6 +12,8 @@ I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Spec
 
 <div align="center">
   
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
 ![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
 ![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000) 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
@@ -74,6 +80,9 @@ Skillshop // Dec. 2024
 <hr style="border: 0.5px solid #ccc;"> 
 
 <div align="center">
-  ───☾───☄───░▒▓█ thanks for visiting ▓▒░───✧───▲▲─── <br>
-₍^. .^₎⟆
-</div> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+    <img src="garden-footer.svg" width="900" alt="" />
+  </picture>
+</div>
+
