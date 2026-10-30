@@ -2,7 +2,13 @@
   <img src="images/Hello_World.png" alt="Hello World Banner" width="100%">
 </p>
 
-<hr style="border: 0.5px solid #ccc;"> 
+<p align="center">
+  <img
+    src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
+    alt="divider"
+    width="100%"
+  />
+</p>
 
 Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm an aspiring **cybersecurity professional** focused on defensive security, threat detection, and identity management.   
 
@@ -22,22 +28,37 @@ I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Spec
 
 </div>
 
-<hr style="border: 0.5px solid #ccc;"> 
+<br>
 
-<h3 style="color:#FFBF00;">Current Areas of Focus 📍</h3> 
+<p align="center">
+<img
+align="left"
+width="52%"
+src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=JetBrains%20Mono&preferLogin=true"
+alt="GitHub Stats"
+/>
 
-<div align="center"> 
+<bold>[CURRENT AREAS OF FOCUS 🖿]</bold> <br>
   
-🛡️ Defensive Security <br>
-☁️ Cloud Security <br>
-🔍 Threat Detection & Analysis <br>
-🔐 Identity & Access Management (IAM) <br>
-🥼 Home Lab Development <br>
-📚 CompTIA CySA+ Preparation <br>
+&emsp;&emsp;₍^. .^₎⟆ <br>
+❖ Defensive Security <br>
+❖ Cloud Security <br>
+❖ Threat Detection & Analysis <br>
+❖ Identity & Access Management (IAM) <br>
+❖ Home Lab Development <br>
+❖ CompTIA CySA+ Preparation <br>
+ 
+</p>
+ 
+<br clear="both">
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
+</p>
 
-<hr style="border: 0.5px solid #ccc;"> 
+<br>
+
+
 
 <h3 style="color:#FFBF00;">Education 📚</h3> 
 
@@ -77,12 +98,8 @@ Skillshop // Dec. 2024
 
 </div>
 
-<hr style="border: 0.5px solid #ccc;"> 
+<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
-    <img src="garden-footer.svg" width="900" alt="" />
-  </picture>
-</div>
-
+<p align="center">
+───☾───☄───░▒▓█ thanks for visiting ▓▒░───✧───▲▲───
+</p>
