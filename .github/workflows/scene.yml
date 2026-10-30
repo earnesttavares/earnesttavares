@@ -16,6 +16,6 @@ jobs:
         with:
           lat: "33.7878"          # your coordinates
           lon: "-117.8531"
-          tz: America/Los_Angeles  # your timezone
-          header: thank you for visiting    # the banner from step 1
-          sky: "false"
+          tz: "America/Los_Angeles"  # your timezone
+          header: "thank you for visiting"    # the banner from step 1
+          sky: "false" 
