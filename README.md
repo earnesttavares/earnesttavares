@@ -95,8 +95,6 @@ Google Analytics (GA4) <br>
 
 <br>
 
-<p align="right">🖱︎ ₍^. .^₎⟆</p>
-
 <p align="center">
   <img
     src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
@@ -104,3 +102,15 @@ Google Analytics (GA4) <br>
     width="100%"
   />
 </p>
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earnesttavares/earnesttavares/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earnesttavares/earnesttavares/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/earnesttavares/earnesttavares/output/github-snake.svg">
+</picture>
+
+</div>
+
+<p align="right">🖱︎ ₍^. .^₎⟆</p>
