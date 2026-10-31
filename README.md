@@ -36,54 +36,62 @@ src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?ca
 alt="GitHub Stats"/></p>
 
 📋︎ CURRENT AREAS OF FOCUS <br>
-✧ Defensive Security <br>
-✧ Cloud Security <br>
-✧ Threat Detection & Analysis <br>
-✧ Identity & Access Management (IAM) <br>
-✧ Home Lab Development <br>
-✧ CompTIA CySA+ Preparation <br>
+» Defensive Security <br>
+» Cloud Security <br>
+» Threat Detection & Analysis <br>
+» Identity & Access Management (IAM) <br>
+» Home Lab Development <br>
+» CompTIA CySA+ Preparation <br>
  
 <br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
 </p>
 
-<div align="center">
-
-<table width="100%">
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### ✍︎ EDUCATION
+## ✍︎ EDUCATION
 
-🌐 Information Security Analyst Training Program <br>
-Correlation One // Jul. 2026 <br>
+🌐 Information Security Analyst Training Program<br>
+Correlation One // Jul. 2026<br>
 Honors Distinction
+
+---
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗎 CERTIFICATIONS
+## 🗎 CERTIFICATIONS
 
-🌐 THM Virtual Workshop: Attack & Defend AWS <br>
-TryHackMe // Sep. 2026
+<img src="https://cdn.simpleicons.org/tryhackme/FF4343" width="20" alt="TryHackMe">
+THM Virtual Workshop: Attacking & Defending AWS <br>
+[TryHackMe // Sep. 2026] <br>
 
-🌐 CompTIA Security+ (SY0-701) <br> 
-CompTIA // Jun. 2026
+---
 
-🌐 Adobe Analytics Practitioner (AD0-E212) <br>
-Adobe // Jun. 2025 
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/comptia/default.svg" width="16" alt="CompTIA">
+CompTIA Security+ (SY0-701) <br>
+[CompTIA // Jun. 2026] <br>
 
-🌐 Google Analytics (GA4) <br> 
-Skillshop // Dec. 2024 
+---
+
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="14">
+Adobe Analytics Business Practitioner (AD0-E212) <br>
+[Adobe // Jun. 2025] <br>
+
+---
+
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="16" alt="Google Analytics">
+Google Analytics (GA4) <br>
+[Skillshop // Dec. 2024]
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
