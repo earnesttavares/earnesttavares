@@ -2,52 +2,53 @@
   <img src="images/Hello_World.png" alt="Hello World Banner" width="100%">
 </p>
 
+<br clear="both">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=B7791F&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Security%2B+Certified;Helping+to+build+a+more+secure+digital+future.;Est.+2026" /> 
+</p>
+
+Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm Earnest, a cybersecurity enthusiast exploring defensive security, threat detection, and identity management.
+
+This space is where I document what I'm learning, building, and breaking (on purpose). Here you'll find security labs, technical write-ups, home lab projects, and other hands-on experiments as I continue developing my skills. Right now, I'm working toward the CompTIA CySA+ certification and expanding my home lab environment. As I continue to grow, I plan to share experimental security builds, research projects, and practical explorations of emerging defensive technologies. 
+
+I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, or Data Center Technician** where I can apply analytical thinking, technical troubleshooting, and security best practices to support secure and reliable operations. 
+
 <p align="center">
   <img
-    src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
+    src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
     alt="divider"
     width="100%"
   />
 </p>
 
-Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm an aspiring **cybersecurity professional** focused on defensive security, threat detection, and identity management.   
-
-Here you'll find security labs, technical write-ups, and projects that showcase my hands-on learning and technical development. I'm currently building a foundational home lab environment and preparing for the CompTIA CySA+ certification. As I continue to grow, I plan to share experimental security builds, research projects, and practical explorations of emerging defensive technologies. 
-
-I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, or Data Center Technician** where I can apply analytical thinking, technical troubleshooting, and security best practices to support secure and reliable operations. 
-
-<div align="center">
-  
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" /></div>
-
-![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
-![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
-
-</div>
-
-<p align="center">
+<p align="left">
 <img
 align="left"
 width="52%"
-src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=JetBrains%20Mono&preferLogin=true"
-alt="GitHub Stats"/></p>
+src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=Orbitron&preferLogin=true"
+alt="GitHub Stats"/>
+</p>
 
-📋︎ CURRENT AREAS OF FOCUS <br>
-» Defensive Security <br>
-» Cloud Security <br>
-» Threat Detection & Analysis <br>
-» Identity & Access Management (IAM) <br>
-» Home Lab Development <br>
-» CompTIA CySA+ Preparation <br>
- 
-<br clear="both">
+<div align="center">
+
+BADGES
+
+![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
+
+![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Helping+to+build+a+more+secure+digital+future.;Est.+2026;Feel+free+to+check+out+my+other+repositories.;Thank+You!" /> 
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,github,raspberrypi" />
 </p>
+
+</div>
+
+<br><br><br>
+
+<br>
 
 <table align="center">
 <tr>
@@ -60,6 +61,15 @@ Correlation One // Jul. 2026<br>
 Honors Distinction
 
 ---
+
+## 🖳 CURRENT AREAS OF FOCUS
+
+🔹 Defensive Security <br>
+🔹 Cloud Security <br>
+🔹 Threat Detection & Analysis <br>
+🔹 Identity & Access Management (IAM) <br>
+🔹 Home Lab Development <br>
+🔹 CompTIA CySA+ Preparation <br>
 
 </td>
 
@@ -93,16 +103,6 @@ Google Analytics (GA4) <br>
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
-    alt="divider"
-    width="100%"
-  />
-</p>
-
 <div align="center">
   
 <picture>
@@ -114,3 +114,11 @@ Google Analytics (GA4) <br>
 </div>
 
 <p align="right">🖱︎ ₍^. .^₎⟆</p>
+
+<p align="center">
+  <img
+    src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
+    alt="divider"
+    width="100%"
+  />
+</p>
