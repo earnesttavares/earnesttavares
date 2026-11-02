@@ -33,8 +33,8 @@ alt="GitHub Stats"/>
 <div align="center">
 
 ![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
-
 ![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000) 
+
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 
