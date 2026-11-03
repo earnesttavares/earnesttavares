@@ -16,7 +16,7 @@ I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Spec
 
 <p align="center">
   <img
-    src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
+    src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
     alt="divider"
     width="100%"
   />
@@ -115,7 +115,7 @@ Google Analytics (GA4) <br>
 
 <p align="center">
   <img
-    src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
+    src="https://hyperweave.app/v1/divider/band/chrome.static?variant=horizon"
     alt="divider"
     width="100%"
   />
