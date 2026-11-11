@@ -112,6 +112,24 @@ Google Analytics (GA4) <br>
 Explore some of the projects I've built and documented:
 
 <!-- SHOWCASE-START -->
+## 🚀 My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
+
+<a href="https://github.com/earnesttavares/HomeCyberLab_Kyanite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnesttavares&repo=HomeCyberLab_Kyanite&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+<a href="https://github.com/earnesttavares/earnesttavares.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnesttavares&repo=earnesttavares.github.io&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+</div>
+
+
+---
+*Updated on November 11, 2026*
+
 <!-- SHOWCASE-END -->
 
 <br>
