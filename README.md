@@ -107,6 +107,10 @@ Google Analytics (GA4) <br>
 
 <br>
 
+## Featured Projects
+
+Explore some of the projects I've built and documented:
+
 <!-- SHOWCASE-START -->
 ## 🚀 My Projects
 
