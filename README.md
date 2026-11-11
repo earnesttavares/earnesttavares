@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3500&pause=1000&color=B7791F&center=true&vCenter=true&width=900&lines=Aspiring+Cybersecurity+Professional;Aspiring+IT+Support+Specialist;Security%2B+Certified;Helping+to+build+a+more+secure+digital+future.;Est.+2026" /> 
 </p>
 
-Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm Earnest, an aspiring cybersecurity professional exploring defensive security, threat detection, and identity & access management.
-
-This space is where I document what I'm learning, building, and breaking (on purpose). Here you'll find security labs, technical write-ups, home lab projects, and other hands-on experiments. Right now, I'm working toward the CompTIA CySA+ certification and expanding my home lab environment. As I continue to grow, I plan to share experimental security builds, research projects, and practical explorations of emerging defensive technologies. 
-
-I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, or Data Center Technician** where I can apply analytical thinking, technical troubleshooting, and security best practices to support secure and reliable operations. 
-
 <p align="center">
   <img
     src="https://hyperweave.app/v1/divider/aura/primer.static?variant=porcelain"
@@ -22,15 +16,25 @@ I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Spec
   />
 </p>
 
+Welcome to my cybersecurity portfolio! (^◡^)ﾉ I'm Earnest, an aspiring cybersecurity professional exploring defensive security, threat detection, and identity & access management.
+
+This space is where I document what I'm learning, building, and breaking (on purpose). Here you'll find security labs, technical write-ups, home lab projects, and other hands-on experiments. Right now, I'm working toward the CompTIA CySA+ certification and expanding my home lab environment. As I continue to grow, I plan to share experimental security builds, research projects, and practical explorations of emerging defensive technologies. 
+
+I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, or Data Center Technician** where I can apply analytical thinking, technical troubleshooting, and security best practices to support secure and reliable operations. 
+
+<br><br>
+
 <p align="left">
 <img
 align="left"
 width="52%"
-src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level-alternate&theme=prussian&fontFamily=Orbitron&preferLogin=true"
-alt="GitHub Stats"/>
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/earnesttavares?cardType=level&theme=nord&fontFamily=Roboto%20Slab&preferLogin=true"
+    alt="Earnest Tavares GitHub Stats"/>
 </p>
 
 <div align="center">
+
+![Toolkit](https://img.shields.io/badge/Tech_Stack-222D3E?style=for-the-badge)
 
 ![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
 ![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000) 
@@ -52,7 +56,7 @@ alt="GitHub Stats"/>
 <tr>
 <td width="50%" valign="top">
 
-## ✍︎ EDUCATION
+## 🔵 EDUCATION
 
 🌐 Information Security Analyst Training Program<br>
 Correlation One // Jul. 2026<br>
@@ -60,7 +64,7 @@ Honors Distinction
 
 ---
 
-## 🖳 CURRENT AREAS OF FOCUS
+## 🟠 CURRENT AREAS OF FOCUS
 
 🔹 Defensive Security <br>
 🔹 Cloud Security <br>
@@ -73,7 +77,7 @@ Honors Distinction
 
 <td width="50%" valign="top">
 
-## 🗎 CERTIFICATIONS
+## ⚪ CERTIFICATIONS
 
 <img src="https://cdn.simpleicons.org/tryhackme/FF4343" width="20" alt="TryHackMe">
 THM Virtual Workshop: Attacking & Defending AWS <br>
@@ -100,6 +104,17 @@ Google Analytics (GA4) <br>
 </td>
 </tr>
 </table>
+
+<br>
+
+## Featured Projects
+
+Explore some of the projects I've built and documented:
+
+<!-- SHOWCASE-START -->
+<!-- SHOWCASE-END -->
+
+<br>
 
 <div align="center">
   
