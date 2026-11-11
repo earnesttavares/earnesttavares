@@ -50,12 +50,12 @@ width="52%"
 
 <br><br>
 
-<div align="center"><h3>🌠FEATURED PROJECTS🌠</h3></div>
+<div align="center"><h3>📀FEATURED PROJECTS📀</h3></div>
 
-| Repository | Description | Skills |
+| **Repository** 🔗 | **Description** | **Skills** |
 | :--- | :--- | :--- | 
-| [HomeCyberLab_Kyanite](https://github.com/earnesttavares/HomeCyberLab_Kyanite) 🔬 | First cybersecurity home lab environment named Kyanite. | Kali Linux, Network Analysis, Threat Detection, Security Monitoring, Log Analysis |  
-| [Cybersec Portfolio Website](https://github.com/earnesttavares/earnesttavares.github.io) 💻💼 | Personal cyberfolio showcasing cybersecurity projects, labs, and technical writeups. | GitHub Pages, HTML/CSS, Markdown, Technical Documentation, Technical Writing | 
+| *[HomeCyberLab_Kyanite](https://github.com/earnesttavares/HomeCyberLab_Kyanite)* 🔬 | First cybersecurity home lab environment named Kyanite. | Kali Linux, Network Analysis, Threat Detection, Security Monitoring, Log Analysis |  
+| *[Cybersec Portfolio Website](https://github.com/earnesttavares/earnesttavares.github.io)* 💻💼 | Personal cyberfolio showcasing cybersecurity projects, labs, and technical writeups. | GitHub Pages, HTML/CSS, Markdown, Technical Documentation, Technical Writing | 
 
 <br>
 
@@ -63,49 +63,45 @@ width="52%"
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 EDUCATION
+### 🏛️ EDUCATION
 
 🌐 Information Security Analyst Training Program<br>
-Correlation One // Jul. 2026<br>
-Honors Distinction
+[Correlation One // Jul. 2026] <br>
+&emsp;-Honors Distinction
 
 ---
 
-### 🟠 CURRENT AREAS OF FOCUS
+### 📍CURRENT AREAS OF FOCUS
 
-🔹 Defensive Security <br>
-🔹 Cloud Security <br>
-🔹 Threat Detection & Analysis <br>
-🔹 Identity & Access Management (IAM) <br>
-🔹 Home Lab Development <br>
-🔹 CompTIA CySA+ Preparation <br>
+&emsp;❖ Defensive Security <br>
+&emsp;❖ Cloud Security <br>
+&emsp;❖ Threat Detection & Analysis <br>
+&emsp;❖ Identity & Access Management (IAM) <br>
+&emsp;❖ Home Lab Development <br>
+&emsp;❖ CompTIA CySA+ Preparation <br>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚪ CERTIFICATIONS
+### 📄 CERTIFICATIONS 
 
-<img src="https://cdn.simpleicons.org/tryhackme/FF4343" width="20" alt="TryHackMe">
-THM Virtual Workshop: Attacking & Defending AWS <br>
+<img src="https://cdn.simpleicons.org/tryhackme/FF4343" width="20" alt="TryHackMe"> THM Virtual Workshop: Attacking & Defending AWS <br>
 [TryHackMe // Sep. 2026] <br>
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/comptia/default.svg" width="16" alt="CompTIA">
-CompTIA Security+ (SY0-701) <br>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/comptia/default.svg" width="16" alt="CompTIA"> CompTIA Security+ (SY0-701) <br>
 [CompTIA // Jun. 2026] <br>
 
 ---
 
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="14">
-Adobe Analytics Business Practitioner (AD0-E212) <br>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" height="14"> Adobe Analytics Business Practitioner (AD0-E212) <br>
 [Adobe // Jun. 2025] <br>
 
 ---
 
-<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="16" alt="Google Analytics">
-Google Analytics (GA4) <br>
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="16" alt="Google Analytics"> Google Analytics (GA4) <br>
 [Skillshop // Dec. 2024]
 
 </td>
