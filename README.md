@@ -22,7 +22,7 @@ This space is where I document what I'm learning, building, and breaking (on pur
 
 I'm actively seeking opportunities as a **Cybersecurity Analyst, IT Support Specialist, or Data Center Technician** where I can apply analytical thinking, technical troubleshooting, and security best practices to support secure and reliable operations. 
 
-<br>
+<br><br>
 
 <p align="left">
 <img
@@ -48,7 +48,7 @@ width="52%"
 
 </div>
 
-<br>
+<br><br><br>
 
 <br>
 
@@ -106,6 +106,10 @@ Google Analytics (GA4) <br>
 </table>
 
 <br>
+
+## Featured Projects
+
+Explore some of the projects I've built and documented:
 
 <!-- SHOWCASE-START -->
 ## 🚀 My Projects
